@@ -1,0 +1,3 @@
+include README.md
+recursive-include kanisa/templates *
+recursive-include kanisa/static *
